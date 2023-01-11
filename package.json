@@ -1,5 +1,5 @@
 {
-  "name": "@yeqiu/eml",
+  "name": "@yyzq/eml",
   "version": "1.0.0",
   "description": "自动化修改本地v8引擎内存大小",
   "bin": {
@@ -8,8 +8,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "叶秋",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeqiu741/eml.git"
+  },
+  "author": "yeqiu741",
   "license": "ISC",
+  "keywords": [ "node", "eml", "cli", "memory-limit", "v8" ],
   "dependencies": {
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
