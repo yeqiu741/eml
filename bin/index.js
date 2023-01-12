@@ -7,8 +7,9 @@ program
   .description('获取当前工具的版本号')
   .usage('-v, --version')
 program
-  .command('<size>')
+  .command('set <size>')
   .description('扩大引擎内存大小')
   .action((size) => {
     index(size)
   })
+program.parse(process.argv)
