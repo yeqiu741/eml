@@ -1,13 +1,13 @@
-# @yyzq/eml
+# @ylzq/eml
 ## npm包情况
-[![npm version](https://img.shields.io/npm/v/@yyzq/eml.svg?style=flat-square)](https://www.npmjs.org/package/@yyzq/eml)[![npm downloads](https://img.shields.io/npm/dm/@yyzq/eml.svg?style=flat-square)](https://npm-stat.com/charts.html?package=@yyzq/eml)
+[![npm version](https://img.shields.io/npm/v/@ylzq/eml.svg?style=flat-square)](https://www.npmjs.org/package/@ylzq/eml)[![npm downloads](https://img.shields.io/npm/dm/@ylzq/eml.svg?style=flat-square)](https://npm-stat.com/charts.html?package=@ylzq/eml)
 ## 简介
 windows环境下自动化V8引擎内存设定工具 
 ## 安装
 ```
-npm i @yyzq/eml -g
+npm i @ylzq/eml -g
 或者
-yarn add @yyzq/eml -g
+yarn add @ylzq/eml -g
 ```
 ## 使用
 `eml set <size>`: size为要设定的内存大小，单位是MB
