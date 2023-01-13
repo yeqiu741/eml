@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/yeqiu741/eml.git"
   },
+  "publishConfig": {
+    "registry": "https://resigtry.npmjs.org/"
+  },
   "author": "yeqiu741",
   "license": "ISC",
   "keywords": [
