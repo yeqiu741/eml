@@ -1,6 +1,6 @@
 {
   "name": "@ylzq/eml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "自动化修改本地v8引擎内存大小",
   "bin": {
     "eml": "./bin/index.js"
