@@ -5,9 +5,7 @@
   "bin": {
     "eml": "./bin/index.js"
   },
-  "scripts": {
-    "release": "standard-version"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/yeqiu741/eml.git"
@@ -25,13 +23,11 @@
     "v8"
   ],
   "dependencies": {
+    "await-to-js": "^3.0.0",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
     "commander": "^9.5.0",
     "fs-extra": "^11.1.0",
     "ora": "^5.4.1"
-  },
-  "devDependencies": {
-    "standard-version": "^9.5.0"
   }
 }
