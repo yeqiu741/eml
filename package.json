@@ -23,7 +23,6 @@
     "v8"
   ],
   "dependencies": {
-    "await-to-js": "^3.0.0",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
     "commander": "^9.5.0",
